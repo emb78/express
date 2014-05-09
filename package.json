@@ -1,0 +1,10 @@
+{
+  "name": "express",
+  "description": "testing out express for node",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "mustachex": "*"
+  }
+}

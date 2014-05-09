@@ -1,0 +1,17 @@
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color: white;
+    margin: 0;
+}
+
+.content {
+    width: 938px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #ececec;
+    min-height: 500px;
+}
+
+h1 {
+    color: midnightblue;
+}
